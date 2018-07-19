@@ -200,7 +200,24 @@ h3{
 	color:white;
 	padding-top:30px;
 }
-
+#cardbox {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color:gray;
+  height:500px;
+  width:400px;
+}
+#cardbox1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color:gray;
+  height:500px;
+  width:400px;
+}
+#cardbox2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color:gray;
+  height:500px;
+  width:400px;
+}
 .slider {
     -webkit-appearance: none;
     width: 80%;
@@ -240,7 +257,7 @@ h5{
 			background-color:white;
 }
 #footer-paragraph{
-	color:#270808cf;
+	color:black;
 }
 
 .footer_items{
